@@ -1,1 +1,1 @@
-[![Github All Releases](https://img.shields.io/github.com/Woody-NX/NiklasCFW_Pack/releases/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/WoodyNX/NiklasCFW_Pack/total.svg)]()
