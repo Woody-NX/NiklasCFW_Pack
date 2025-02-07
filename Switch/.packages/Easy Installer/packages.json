@@ -1,8 +1,8 @@
 [
     {
         "name": "NiklasCFW Downloader - latest",
-        "label": "NiklasCFW Downloader",
-        "file-1-url": "https://raw.githubusercontent.com/Woody-NX/NiklasCFW/refs/heads/NiklasCFW_Pack/Switch/.packages/NiklasCFW%20und%20Firmware%20Downloader/package.ini"
+        "label": "NiklasCFW und Firmware Downloader",
+        "file-1-url": "https://raw.githubusercontent.com/Woody-NX/NiklasCFW_Pack/refs/heads/main/Switch/.packages/NiklasCFW%20und%20Firmware%20Downloader/package.ini"
     },
     {
         "name": "Broomstick - latest",
