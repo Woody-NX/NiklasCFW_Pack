@@ -1,7 +1,7 @@
 <div align="center">
   
 [![Aktuelle Version](https://img.shields.io/github/v/release/Woody-NX/NiklasCFW_Pack?style=for-the-badge&label=NiklasCFW%20Pack%20Version&labelColor=7d7d7d&color=00d2d0)](https://github.com/Woody-NX/NiklasCFW_Pack/releases/latest)
-[![Kompatibel mit FW](https://img.shields.io/github/v/release/THZoria/NX_Firmware?display_name=tag&style=for-the-badge&label=Kompatibel%20mit%20FW&labelColor=7d7d7d&color=00d2d0)](https://github.com/THZoria/NX_Firmware/releases/latest)
+[![Kompatibel mit FW](https://img.shields.io/github/v/release/THZoria/NX_Firmware?display_name=tag&style=for-the-badge&label=Kompatibel%20mit%20FW&labelColor=7d7d7d&color=00d2d0)][(https://github.com/THZoria/NX_Firmware/releases/latest](https://github.com/THZoria/NX_Firmware/releases/tag/19.0.1))
 [![Atmosphere Version](https://img.shields.io/github/v/release/Atmosphere-NX/Atmosphere?display_name=release&style=for-the-badge&label=Atmosphere%20Version&labelColor=7d7d7d&color=00d2d0)](https://github.com/atmosphere-nx/atmosphere/releases/latest)
 
 [![Release Datum](https://img.shields.io/github/release-date/Woody-NX/NiklasCFW_Pack?display_date=published_at&style=for-the-badge&label=Released%20%20&labelColor=7d7d7d&color=00d2d0)](https://github.com/Woody-NX/NiklasCFW_Pack/releases)
