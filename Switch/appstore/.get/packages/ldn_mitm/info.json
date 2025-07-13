@@ -1,0 +1,11 @@
+{
+ "title": "ldn_mitm",
+ "description": "A mitm kip modified from fs_mitm",
+ "author": "spacemeowx2, DefenderOfHyrule",
+ "version": "1.19.1",
+ "license": "GPLv2",
+ "url": "https://github.com/DefenderOfHyrule/ldn_mitm/",
+ "category": "tool",
+ "details": "A mitm kip modified from fs_mitm.\\n\\nldn_mitm implements LAN connectivity by replacing the system's ldn service.\\n\\nThe original ldn service is only responsible for calling the WiFi service to scan and connect to nearby Switch. ldn_mitm uses the LAN UDP to emulate this scanning process. Therefore ldn_mitm is usually used with switch-lan-play. A configuration tutorial can be found here.",
+ "changelog": "1.19.1\\n1.9.1/20.X.0 Compatibility\\nThis release was compiled with the latest libnx and atmosphere-libs."
+}
