@@ -7,6 +7,6 @@
     {
         "name": "App Listen Updater",
         "label": "App Listen Updater",
-        "file-1-url": "https://raw.githubusercontent.com/Woody-NX/NiklasCFW_Pack/refs/heads/main/Switch/.packages/NiklasCFW%20und%20Firmware%20Downloader/apps.json"
+        "file-2-url": "https://raw.githubusercontent.com/Woody-NX/NiklasCFW_Pack/refs/heads/main/Switch/.packages/NiklasCFW%20und%20Firmware%20Downloader/apps.json"
     }
 ]
