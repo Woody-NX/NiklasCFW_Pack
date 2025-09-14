@@ -12,6 +12,16 @@
         "download-entry": "0"
     },
     {
+        "name": "DBI_EN - 658 offizelle Version",
+		"zip-url": "https://api.github.com/repos/Woody-NX/UltraHand_Addons/releases?page=1&sort=created&order=desc",
+        "download-entry": "0"
+    },
+    {
+        "name": "DBI_DE - 810 gepatchte Version",
+		"zip-url": "https://api.github.com/repos/Woody-NX/UltraHand_Addons/releases?page=1&sort=created&order=desc",
+        "download-entry": "1"
+    },
+    {
         "name": "Chiaki_NG - neueste",
 		"nro-url": "https://api.github.com/repos/streetpea/chiaki-ng/releases?per_page=1&sort=created&order=desc",
         "ordner": "Chiaki",
