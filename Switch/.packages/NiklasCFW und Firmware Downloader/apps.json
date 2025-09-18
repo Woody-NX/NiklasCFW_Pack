@@ -69,7 +69,7 @@
         "download-entry": "0"
     },
 	{
-        "name": "Sphiara - 0.13.3",
+        "name": "Sphaira - 0.13.3",
         "zip-url": "https://api.github.com/repos/Woody-NX/UltraHand_Addons/releases?page=1&sort=created&order=desc",
         "download-entry": "3"
     },
@@ -80,5 +80,6 @@
         "download-entry": "0"
     }
 ]
+
 
 
