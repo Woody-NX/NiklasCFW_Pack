@@ -68,6 +68,11 @@
         "ordner": "NX-Activity-Log",
         "download-entry": "0"
     },
+	{
+        "name": "Sphiara - 0.13.3",
+        "zip-url": "https://api.github.com/repos/Woody-NX/UltraHand_Addons/releases?page=1&sort=created&order=desc",
+        "download-entry": "3"
+    },
     {
         "name": "ThemezerNX - neueste",
         "nro-url": "https://api.github.com/repos/suchmememanyskill/themezer-nx/releases?per_page=1&sort=created&order=desc",
@@ -75,4 +80,5 @@
         "download-entry": "0"
     }
 ]
+
 
