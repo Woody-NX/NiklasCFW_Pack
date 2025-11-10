@@ -23,12 +23,11 @@
 1. **[Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)** - Custom Firmware für Nintendo Switch
 2. **[Hekate](https://github.com/CTCaer/hekate)** - Bootloader mit grafischer Oberfläche
 3. **[sys-patch](https://github.com/impeeza/sys-patch)** - System-Patches für unsigned Software
-4. **[Tesla](https://github.com/WerWolv/Tesla-Menu)** - Overlay-Menü System
+4. **[UltraHand](https://github.com/ppkantorski/Ultrahand-Overlay)** - Overlay-Menü
 
 ### **2. Installierte Payloads**
 * **[Lockpick RCM](https://github.com/impeeza/Lockpick_RCMDecScots)** - Console Keys extrahieren
 * **[TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer)** - Low-Level Dateimanager
-* **[ProblemResolver](https://github.com/ITotalJustice/ProblemResolver)** - Problembehebung
 * **[hwfly_toolbox](https://github.com/ITotalJustice/hwfly_toolbox)** - Hardware-Toolbox
 * **[Instinct_toolbox](https://github.com/ITotalJustice/Instinct_toolbox)** - Instinct Modchip Toolbox
 * **[PicoFly_Toolbox](https://github.com/ITotalJustice/PicoFly_toolbox)** - PicoFly Modchip Toolbox
@@ -55,16 +54,13 @@
 * **[Sys-Clk Manager](https://github.com/redraz/sys-clk-manager)** - Overclocking Manager
 * **[Neumann](https://github.com/ITotalJustice/Neumann)** - Audio Player
 * **[Breeze](https://github.com/tallbl0nde/Breeze)** - File Manager
-* **[cheats-updater](https://github.com/HamletDuFromage/cheats-updater)** - Cheat Updater
 * **[DNS_mitm Tester](https://github.com/ITotalJustice/DNS_mitm_Tester)** - DNS Test Tool
 * **[ldnmitm_config](https://github.com/spacemeowx2/ldn_mitm)** - Local Network Config
 
 ### **4. Installierte Module**
-* **[SaltyNX](https://github.com/masagrator/SaltyNX)** - Background Module für File/Process Modifikation
 * **[sys-clk](https://github.com/ppkantorski/sys-clk)** - CPU, Memory und GPU Overclocking
 * **[nx-ovlloader](https://github.com/ppkantorski/nx-ovlloader)** - Overlay Loader
 * **[Mission Control](https://github.com/ndeadly/MissionControl)** - Bluetooth Gamepad Support
-* **[sys-con](https://github.com/o0Zz/sys-con)** - USB Gamepad Support
 * **[Ultrahand Overlay](https://github.com/ppkantorski/Ultrahand-Overlay)** - Overlay-Menü System
   - **Status Monitor** - Real-time System Parameter Monitoring
   - **sys-clk Overlay** - Overclocking Control
@@ -106,7 +102,6 @@
 
 ### **Overlay-Menü:**
 - **L+R+PLUS** - Ultrahand Overlay öffnen
-- **ZL+ZR+DDOWN** - Tesla Menu öffnen
 
 ### **Homebrew Menu:**
 - **Album** - Sphaira Homebrew Menu öffnen
