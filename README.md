@@ -26,7 +26,7 @@
 4. **[UltraHand](https://github.com/ppkantorski/Ultrahand-Overlay)** - Overlay-Menü
 
 ### **2. Installierte Payloads**
-* **[Lockpick RCM](https://github.com/impeeza/Lockpick_RCMDecScots)** - Console Keys extrahieren
+* **[Lockpick RCM Pro](https://github.com/sthetix/Lockpick_RCM_Pro)** - Console Keys extrahieren
 * **[TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer)** - Low-Level Dateimanager
 * **[hwfly_toolbox](https://github.com/ITotalJustice/hwfly_toolbox)** - Hardware-Toolbox
 * **[Instinct_toolbox](https://github.com/ITotalJustice/Instinct_toolbox)** - Instinct Modchip Toolbox
@@ -120,6 +120,7 @@ Die verwendeten Programme unterliegen ihren jeweiligen Lizenzen. NiklasCFW Pack 
 * **ppkantorski** - Ultrahand Overlay & sys-clk
 * **ITotalJustice** - Viele Homebrew Apps
 * **WerWolv** - Tesla Menu & EdiZon
+* **Sthetix** - LockPick RCM PRO 
 * **Woody-NX** - NiklasCFW Pack Creator
 
 ## Support
