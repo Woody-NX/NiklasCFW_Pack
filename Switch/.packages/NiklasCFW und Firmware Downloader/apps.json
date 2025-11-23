@@ -30,7 +30,7 @@
         "name": "Chiaki_NG - neueste",
 		"nro-url": "https://api.github.com/repos/streetpea/chiaki-ng/releases?per_page=1&sort=created&order=desc",
         "ordner": "Chiaki",
-        "download-entry": "10"
+        "download-entry": "8"
     },
 	{
         "name": "DNS_mitm Tester - neueste",
