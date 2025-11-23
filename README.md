@@ -35,32 +35,25 @@
 ### **3. Installierte Homebrew Apps**
 * **[Sphaira](https://github.com/ITotalJustice/sphaira)** - Modernes Homebrew Menu
 * **[DBI](https://github.com/rashevskyv/DBI)** - Dateimanager, Save Manager und Installer
-* **[Tinfoil](https://github.com/ITotalJustice/tinfoil)** - NSP/NSZ Installer
 * **[Daybreak](https://github.com/Atmosphere-NX/Atmosphere)** - HOS Update Tool
 * **[JKSV](https://github.com/J-D-K/JKSV)** - Save Manager
-* **[Checkpoint](https://github.com/FlagBrew/Checkpoint)** - Backup Tool
 * **[EdiZon](https://github.com/WerWolv/EdiZon)** - Cheat Engine
 * **[Linkalho](https://github.com/rdmrocha/linkalho)** - Account Linking
-* **[SwitchIdent](https://github.com/joel16/SwitchIdent)** - System Information
 * **[NX-Activity-Log](https://github.com/tallbl0nde/NX-Activity-Log)** - Activity Logger
-* **[NX-Save-Sync](https://github.com/tallbl0nde/NX-Save-Sync)** - Cloud Save Sync
 * **[nxdumptool](https://github.com/DarkMatterCore/nxdumptool)** - Game Dumper
 * **[NXGallery](https://github.com/joel16/NXGallery)** - Media Gallery
-* **[Moonlight-Switch](https://github.com/XITRIX/Moonlight-Switch)** - PC Game Streaming
 * **[Chiaki](https://github.com/thestr4ng3r/chiaki)** - PlayStation Remote Play
 * **[SimpleModManager](https://github.com/AmazingAidan/SimpleModManager)** - Mod Manager
 * **[SimpleModDownloader](https://github.com/AmazingAidan/SimpleModDownloader)** - Mod Downloader
 * **[Switch_themes_Installer](https://github.com/exelix11/SwitchThemeInjector)** - Theme Installer
 * **[Sys-Clk Manager](https://github.com/redraz/sys-clk-manager)** - Overclocking Manager
-* **[Neumann](https://github.com/ITotalJustice/Neumann)** - Audio Player
-* **[Breeze](https://github.com/tallbl0nde/Breeze)** - File Manager
+* **[Breeze](https://github.com/tallbl0nde/Breeze)** - Cheat Manager
 * **[DNS_mitm Tester](https://github.com/ITotalJustice/DNS_mitm_Tester)** - DNS Test Tool
 * **[ldnmitm_config](https://github.com/spacemeowx2/ldn_mitm)** - Local Network Config
 
 ### **4. Installierte Module**
 * **[sys-clk](https://github.com/ppkantorski/sys-clk)** - CPU, Memory und GPU Overclocking
 * **[nx-ovlloader](https://github.com/ppkantorski/nx-ovlloader)** - Overlay Loader
-* **[Mission Control](https://github.com/ndeadly/MissionControl)** - Bluetooth Gamepad Support
 * **[Ultrahand Overlay](https://github.com/ppkantorski/Ultrahand-Overlay)** - Overlay-Menü System
   - **Status Monitor** - Real-time System Parameter Monitoring
   - **sys-clk Overlay** - Overclocking Control
@@ -69,7 +62,6 @@
   - **Battery Charge Info** - Battery Status
   - **ldnmitm Config** - Local Network Configuration
   - **sysmodules** - Module Management
-  - **Tetris** - Mini-Game Overlay
 
 ### **5. Konfiguration & Themes**
 * **Deutsche Lokalisierung** - Ultrahand auf Deutsch konfiguriert
@@ -130,7 +122,7 @@ Falls Ihnen das Projekt gefällt und Sie es unterstützen möchten:
 **Discord:** [NiklasCFW Modding Community](https://discord.gg/5rMJ4fWQT3)
 **YouTube:** [NiklasCFW Channel](https://www.youtube.com/@NiklasCFW)
 **GitHub:** [Woody-NX](https://github.com/Woody-NX)
-
+**Wiki:** [NiklasCFW Wiki](https://docs.niklascfw.de)
 ---
 
 <div align="center">
