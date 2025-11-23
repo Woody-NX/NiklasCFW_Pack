@@ -119,10 +119,10 @@ Die verwendeten Programme unterliegen ihren jeweiligen Lizenzen. NiklasCFW Pack 
 
 Falls Ihnen das Projekt gefällt und Sie es unterstützen möchten:
 
-**Discord:** [NiklasCFW Modding Community](https://discord.gg/5rMJ4fWQT3)
-**YouTube:** [NiklasCFW Channel](https://www.youtube.com/@NiklasCFW)
-**GitHub:** [Woody-NX](https://github.com/Woody-NX)
-**Wiki:** [NiklasCFW Wiki](https://docs.niklascfw.de)
+* **Discord:** [NiklasCFW Modding Community](https://discord.gg/5rMJ4fWQT3)
+* **YouTube:** [NiklasCFW Channel](https://www.youtube.com/@NiklasCFW)
+* **GitHub:** [Woody-NX](https://github.com/Woody-NX)
+* **Wiki:** [NiklasCFW Wiki](https://docs.niklascfw.de)
 ---
 
 <div align="center">
