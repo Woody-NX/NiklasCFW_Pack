@@ -1,0 +1,21 @@
+﻿[2025-11-23 09:56:12.096733624] [INFO]    /source/core/nxdt_utils.c|154|utilsInitializeResources -> nxdt_rw_poc v2.0.0 starting (rewrite-21dcda3-dirty). Built on 2025-11-19 13:44:19 UTC.
+[2025-11-23 09:56:12.100043944] [INFO]    /source/core/nxdt_utils.c|1441|utilsLogEnvironmentInfo -> Console info:
+- Horizon OS version: 21.0.0.
+- CFW: Atmosphère.
+- eMMC type: emuMMC.
+- SoC type: Mariko.
+- Development unit: no.
+- Terra flag: no.
+- Execution mode: applet.
+[2025-11-23 09:56:12.100087728] [INFO]    /source/core/nxdt_utils.c|1457|utilsLogEnvironmentInfo -> Exosphère API version info:
+- Release version: 1.10.0.
+- PKG1 key generation: 20 (0x15).
+- Target firmware: 21.0.0.
+[2025-11-23 09:56:12.100123036] [INFO]    /source/core/nxdt_utils.c|1471|utilsEnsureCorrectLaunchPath -> Launch path: "sdmc:/switch/NXDumptool/NXDumptool.nro".
+[2025-11-23 09:56:12.101617620] [DEBUG]   /source/core/keys.c|177|keysLoadKeyset -> AMS key generation: 14 | Last known master key index: 14 | HOS key generation: 14.
+[2025-11-23 09:56:12.107383588] [INFO]    /source/core/keys.c|680|keysReadKeysFromFile -> Loaded 1 key(s) from "sdmc:/switch/prod.keys".
+[2025-11-23 09:56:12.107404596] [WARNING] /source/core/keys.c|784|keysDeriveCurrentMasterKey -> Current master key (14) unavailable. It will be derived.
+[2025-11-23 09:56:12.107424148] [ERROR]   /source/core/keys.c|791|keysDeriveCurrentMasterKey -> "mariko_kek" unavailable! Unable to derive current
+master key. You may need to manually derive it using PartialAesKeyCrack,
+and/or redump your console keys. Please try again afterwards.
+[2025-11-23 09:56:27.603697224] [INFO]    /source/core/nxdt_utils.c|269|utilsCloseResources -> Shutting down...

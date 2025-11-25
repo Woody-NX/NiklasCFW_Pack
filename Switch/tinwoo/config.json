@@ -1,0 +1,22 @@
+{
+    "autoUpdate": true,
+    "deletePrompt": true,
+    "fixticket": true,
+    "gAuthKey": "AIzaSyBMqv4dXnTJOGQtZZS3CBjvf748QvxSzF0",
+    "httpIndexUrl": "http://",
+    "httpkeyboard": false,
+    "httplastUrl": "http://",
+    "httplastUrl2": "https://pastebin.com/raw/huBQFYWP",
+    "ignoreReqVers": true,
+    "languageSetting": 0,
+    "listoveride": false,
+    "overClock": true,
+    "set_dist_bit": true,
+    "sigPatchesUrl": "http://bit.ly/3PWOnsG",
+    "ticketwarning": true,
+    "usbAck": false,
+    "useMusic": true,
+    "useSound": true,
+    "useTheme": false,
+    "validateNCAs": true
+}
