@@ -17,12 +17,12 @@
         "download-entry": "0"
     },
     {
-        "name": "DBI_DE - 810 gepatchte Version",
+        "name": "DBI_DE - 845 gepatchte Version",
 		"zip-url": "https://api.github.com/repos/Woody-NX/UltraHand_Addons/releases?page=1&sort=created&order=desc",
         "download-entry": "1"
     },
     {
-        "name": "DBI_EN - 810 gepatchte Version",
+        "name": "DBI_EN - 845 gepatchte Version",
 		"zip-url": "https://api.github.com/repos/Woody-NX/UltraHand_Addons/releases?page=1&sort=created&order=desc",
         "download-entry": "2"
     },
@@ -64,13 +64,13 @@
     },
     {
         "name": "NX-Activity-Log - neueste",
-        "nro-url": "https://api.github.com/repos/zdm65477730/NX-Activity-Log/releases?per_page=1&sort=created&order=desc",
+        "nro-url": "https://api.github.com/repos/tallbl0nde/NX-Activity-Log/releases?per_page=1&sort=created&order=desc",
         "ordner": "NX-Activity-Log",
         "download-entry": "0"
     },
     {
         "name": "Sphaira - 1.0.0",
-		"zip-url": "https://api.github.com/repos/ITotalJustice/sphaira/releases?per_page=1&sort=created&order=desc",
+		"zip-url": "https://api.github.com/repos/Woody-NX/UltraHand_Addons/releases?page=1&sort=created&order=desc",
         "download-entry": "3"
     },
     {
