@@ -49,11 +49,11 @@ println("  Du solltest nun wieder in den emuMMC booten koennen")
 println()
 color(0xFFFFFF)
 println()
-println("  Nach dem beenden des Skripts ### Reboot to bootloader/update.bin ###")
-println("  auswaehlen um Hekate zu booten.")
-println("  Alternativ Power off auswaehlen und Konsole wieder einschalten")
+println("Druecke die Power oder A-Taste.")
+println("Deine Konsole bootet automatisch zu Hekate")
 println()
-color(0xFE0000)
-println()
-println("  Druecke eine beliebige Taste, um das Skript zu beenden. ")pause()println("  Platzhalter. ")
-println("  Druecke eine beliebige Taste, um zurueckzukehren. ")pause()
+println("*** Warte auf Eingabe ***")
+
+if (pause().a){
+payload("sd:/bootloader/update.bin")
+}
