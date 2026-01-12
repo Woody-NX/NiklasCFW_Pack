@@ -1,7 +1,7 @@
 println()
 color(0x00FFFF)
 println()
-println("               #####   Fehler Code 690000000000000D Fix   ######")
+println("               #####     Fehler Code 690000000000000D     ######")
 println("               #####                                      ######")
 println("               #####           Reparatur Skript           ######")
 println("               #####         Created by Woody2408         ######")
