@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Amiibo Generator - neueste",
+		"nro-url": "https://api.github.com/repos/Slluxx/AmiiboGenerator/releases?per_page=1&sort=created&order=desc",
+        "ordner": "AmiiboGenerator",
+        "download-entry": "0"
+    },
+    {
+        "name": "Amiigo - neueste",
+		"nro-url": "https://api.github.com/repos/CompSciOrBust/Amiigo/releases?per_page=1&sort=created&order=desc",
+        "ordner": "Amiigo",
+        "download-entry": "0"
+    },
+    {
+        "name": "DBI_EN - 658 offizelle Version",
+		"zip-url": "https://api.github.com/repos/Woody-NX/UltraHand_Addons/releases?page=1&sort=created&order=desc",
+        "download-entry": "0"
+    },
+    {
+        "name": "DBI_DE - 845 gepatchte Version",
+		"zip-url": "https://api.github.com/repos/Woody-NX/UltraHand_Addons/releases?page=1&sort=created&order=desc",
+        "download-entry": "1"
+    },
+    {
+        "name": "DBI_EN - 845 gepatchte Version",
+		"zip-url": "https://api.github.com/repos/Woody-NX/UltraHand_Addons/releases?page=1&sort=created&order=desc",
+        "download-entry": "2"
+    },
+    {
+        "name": "Chiaki_NG - neueste",
+		"nro-url": "https://api.github.com/repos/streetpea/chiaki-ng/releases?per_page=1&sort=created&order=desc",
+        "ordner": "Chiaki",
+        "download-entry": "8"
+    },
+	{
+        "name": "DNS_mitm Tester - neueste",
+        "nro-url": "https://api.github.com/repos/meganukebmp/Switch_90DNS_tester/releases?per_page=1&sort=created&order=desc",
+        "ordner": "DNS-Block_Tester",
+        "download-entry": "0"
+    },
+    {
+        "name": "Hekate-Toolbox - neueste",
+        "nro-url": "https://api.github.com/repos/WerWolv/Hekate-Toolbox/releases?per_page=1&sort=created&order=desc",
+        "ordner": "Hekate-Toolbox",
+        "download-entry": "0"
+    },
+    {
+        "name": "JKSV - neueste",
+        "nro-url": "https://api.github.com/repos/J-D-K/JKSV/releases?per_page=1&sort=created&order=desc",
+        "ordner": "JKSV",
+        "download-entry": "0"
+    },
+    {
+        "name": "Moonlight Switch - neueste",
+        "nro-url": "https://api.github.com/repos/XITRIX/Moonlight-Switch/releases?per_page=1&sort=created&order=desc",
+        "ordner": "Moonlight Switch",
+        "download-entry": "0"
+    },
+    {
+        "name": "Neumann - neueste",
+		"nro-url": "https://api.github.com/repos/turtle-insect/Neumann/releases?per_page=1&sort=created&order=desc",
+        "ordner": "Neumann",
+        "download-entry": "0"
+    },
+    {
+        "name": "NX-Activity-Log - neueste",
+        "nro-url": "https://api.github.com/repos/tallbl0nde/NX-Activity-Log/releases?per_page=1&sort=created&order=desc",
+        "ordner": "NX-Activity-Log",
+        "download-entry": "0"
+    },
+	{
+        "name": "OC Toolkit - 1.7.2",
+		"zip-url": "https://api.github.com/repos/Woody-NX/OC-Switchcraft-EOS/releases?page=1&sort=created&order=desc",
+        "download-entry": "0"
+    },
+    {
+        "name": "Sphaira - 1.0.0",
+		"zip-url": "https://api.github.com/repos/Woody-NX/UltraHand_Addons/releases?page=1&sort=created&order=desc",
+        "download-entry": "3"
+    },
+    {
+        "name": "ThemezerNX - neueste",
+        "nro-url": "https://api.github.com/repos/suchmememanyskill/themezer-nx/releases?per_page=1&sort=created&order=desc",
+        "ordner": "ThemezerNX",
+        "download-entry": "0"
+    }
+]
