@@ -68,6 +68,11 @@
         "ordner": "NX-Activity-Log",
         "download-entry": "0"
     },
+	{
+        "name": "OC Toolkit - 1.7.2",
+		"zip-url": "https://api.github.com/repos/Woody-NX/OC-Switchcraft-EOS/releases?page=1&sort=created&order=desc",
+        "download-entry": "0"
+    },
     {
         "name": "Sphaira - 1.0.0",
 		"zip-url": "https://api.github.com/repos/Woody-NX/UltraHand_Addons/releases?page=1&sort=created&order=desc",
