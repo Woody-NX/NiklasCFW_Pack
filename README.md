@@ -1,6 +1,6 @@
 # NiklasCFW Pack by **[Woody-NX](https://github.com/Woody-NX)**
 
-![](http://cdn.niklascfw.de/files/nyx20250421_160911.png)
+![](.pics/hekate.png)
 
 ### NiklasCFW Pack ist ein vollständiges Custom Firmware Setup für Nintendo Switch mit Fokus auf Benutzerfreundlichkeit und deutsche Lokalisierung.
 
