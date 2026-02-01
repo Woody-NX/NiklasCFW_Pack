@@ -42,7 +42,7 @@
 	{
         "name": "Sys-Clk_Overlay - neueste",
         "ovl-url": "https://api.github.com/repos/ppkantorski/sys-clk/releases?per_page=1&sort=created&order=desc",
-        "download-entry": "0"
+        "download-entry": "1"
     },
 	{
         "name": "SysDVR - neueste",
@@ -56,3 +56,4 @@
     }
 
 ]	
+
