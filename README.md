@@ -4,7 +4,7 @@
 
 ### NiklasCFW Pack ist ein vollständiges Custom Firmware Setup für Nintendo Switch mit Fokus auf Benutzerfreundlichkeit und deutsche Lokalisierung.
 
-### [NiklasCFW Pack](https://github.com/Woody-NX/NiklasCFW_Pack/releases) unterstützt alle HOS-Versionen, einschließlich 21.1.0
+### [NiklasCFW Pack](https://github.com/Woody-NX/NiklasCFW_Pack/releases) unterstützt alle HOS-Versionen, einschließlich 21.2.0
 
 ## Features von NiklasCFW Pack
 
@@ -128,7 +128,7 @@ Falls Ihnen das Projekt gefällt und Sie es unterstützen möchten:
 <div align="center">
   
 [![Aktuelle Version](https://img.shields.io/github/v/release/Woody-NX/NiklasCFW_Pack?style=for-the-badge&label=NiklasCFW%20Pack%20Version&labelColor=7d7d7d&color=00d2d0)](https://github.com/Woody-NX/NiklasCFW_Pack/releases/latest)
-[![Firmware](https://img.shields.io/github/v/release/THZoria/NX_Firmware?display_name=release&filter=*21.1.0&style=for-the-badge&label=Kompatibel%20mit%20FW&labelColor=7d7d7d&color=00d2d0)](https://github.com/THZoria/NX_Firmware/releases/tag/21.1.0)
+[![Firmware](https://img.shields.io/github/v/release/THZoria/NX_Firmware?display_name=release&filter=*21.2.0&style=for-the-badge&label=Kompatibel%20mit%20FW&labelColor=7d7d7d&color=00d2d0)](https://github.com/THZoria/NX_Firmware/releases/tag/21.1.0)
 [![Atmosphere Version](https://img.shields.io/github/v/release/Atmosphere-NX/Atmosphere?include_prereleases&filter=1.10.1&style=for-the-badge&label=Atmosphere%20Version&labelColor=7d7d7d&color=00d2d0)](https://github.com/Atmosphere-NX/Atmosphere/releases/tag/1.10.1)
 
 [![Release Datum](https://img.shields.io/github/release-date/Woody-NX/NiklasCFW_Pack?display_date=published_at&style=for-the-badge&label=Released%20%20&labelColor=7d7d7d&color=00d2d0)](https://github.com/Woody-NX/NiklasCFW_Pack/releases)
