@@ -75,8 +75,8 @@
     },
     {
         "name": "Sphaira - 1.0.0",
-		"zip-url": "https://api.github.com/repos/Woody-NX/UltraHand_Addons/releases?page=1&sort=created&order=desc",
-        "download-entry": "3"
+		"zip-url": "https://api.github.com/repos/ITotalJustice/sphaira/releases?page=1&sort=created&order=desc",
+        "download-entry": "0"
     },
     {
         "name": "ThemezerNX - neueste",
@@ -84,4 +84,5 @@
         "ordner": "ThemezerNX",
         "download-entry": "0"
     }
+
 ]
