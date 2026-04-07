@@ -4,7 +4,7 @@
 
 ### NiklasCFW Pack ist ein vollständiges Custom Firmware Setup für Nintendo Switch mit Fokus auf Benutzerfreundlichkeit und deutsche Lokalisierung.
 
-### [NiklasCFW Pack](https://github.com/Woody-NX/NiklasCFW_Pack/releases) unterstützt alle HOS-Versionen, einschließlich 22.0.0
+### [NiklasCFW Pack](https://github.com/Woody-NX/NiklasCFW_Pack/releases) unterstützt alle HOS-Versionen, einschließlich 22.1.0
 
 ## Features von NiklasCFW Pack
 
